@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nev:home|Door43 (nev)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nev|d43-nev repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nev/archive/master.zip|d43-nev.zip]]
+
+**Recent Changes**
+{{changes>ns = nev}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nev|Ethnologue data]]
+
